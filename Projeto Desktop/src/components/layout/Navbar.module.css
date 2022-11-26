@@ -1,0 +1,22 @@
+.navbar {
+    width: 1440px;
+    height: 106px;
+    display: flex;
+    background-color: #ffff;
+    padding: 1em;
+    border-bottom: solid #fb9600;
+    z-index: 0;
+}
+
+.button_login {
+    margin-left: 50% !important;
+}
+
+.button_menu {
+    margin-left: 50% !important;
+}
+
+.img_user {
+    margin-right: 2%;
+    z-index: 0;
+}

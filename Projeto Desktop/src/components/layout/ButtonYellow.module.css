@@ -1,0 +1,25 @@
+.btn {
+    width: 155px;
+    height: 44px;
+    left: 783px;
+    top: 263px;
+
+    background: #FFE600;
+    border-radius: 8px;
+    border-style: none;
+
+    margin-bottom: 6%;
+
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,31 @@
+.container {
+    width: 1460px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /*quando os childrens passarem 1200px, eles criao uma nova linha em baixo*/
+    z-index: 0 !important;
+}
+
+.backLine {
+    z-index: 0 !important;
+}
+
+.min-height {
+    min-height: 79%;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+@media (min-width: 640) and (max-width: 1040px) {
+    div, .min-height{
+        width: 100%;
+        padding: 0;
+    }
+}

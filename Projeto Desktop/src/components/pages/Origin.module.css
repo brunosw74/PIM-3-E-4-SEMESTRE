@@ -1,0 +1,20 @@
+.origin_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background: url("../../imgs/origin_background.png");
+    background-repeat: no-repeat;
+
+}
+
+
+.origin_container h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    margin-bottom: 15%;
+}

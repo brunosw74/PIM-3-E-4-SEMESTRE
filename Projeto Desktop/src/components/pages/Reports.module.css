@@ -1,0 +1,235 @@
+.container {
+    width: 100%;
+}
+
+.title_page {
+    position: absolute;
+    width: 303px;
+    height: 85px;
+    left: 569px;
+    top: 111px;
+
+    margin-left: 4%;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.rep_container {
+
+    width: 1084px;
+    height: 656px;
+    left: 178px;
+    top: 240px;
+
+    margin-left: 12%;
+    margin-top: 8%;
+
+    justify-content: center;
+    align-items: center;
+
+    background: #FEFEFE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 32px;
+}
+
+.rep_img {
+    width: 116px;
+    height: 116px;
+    left: 392px;
+    top: 270px;
+
+    margin-top: 25%;
+    margin-bottom: 50%;
+    margin-left: 20%;
+    background: url("../../imgs/relatorios3.png");
+    background-repeat: no-repeat;
+}
+
+.rep_container1 {
+    position: absolute;
+
+    margin-left: 10%;
+}
+
+.btn1 {
+    width: 164px;
+    height: 48px;
+    left: 354px;
+    top: 454px;
+
+    margin-bottom: 8%;
+
+    background: #53ADEF;
+    border-radius: 8px;
+    border-style: none;
+
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+}
+
+.btn2 {
+    position: absolute;
+    width: 164px;
+    height: 48px;
+    left: 237px;
+    top: 739px;
+
+    background: #FB9600;
+    border-radius: 8px;
+    border-style: none;
+
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+
+}
+
+.btn3 {
+    position: absolute;
+    width: 164px;
+    height: 48px;
+    left: 471px;
+    top: 738px;
+
+    background: #36FF03;
+    border-radius: 8px;
+    border-style: none;
+
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+
+}
+
+.picture_container {
+    position: absolute;
+    width: 368px;
+    height: 439px;
+    left: 817px;
+    top: 268px;
+
+    justify-content: center;
+    margin-left: 1%;
+
+    background: #FBFBFB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 32px;
+}
+
+.picture_text {
+    width: 201px;
+    height: 80px;
+    left: 901px;
+    top: 378px;
+
+    margin-left: 22%;
+    margin-top: 30%;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #000000;
+}
+
+.btn_exclude {
+    width: 82px;
+    height: 82px;
+    left: 960px;
+    top: 447px;
+
+    margin-left: 38%;
+
+    border-style: none;
+    background: url("../../imgs/exit.png");
+}
+
+.btn_add {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 956px;
+    top: 723px;
+
+    margin-left: 1%;
+    border-style: none;
+    background: url("../../imgs/add_table.png");
+}
+
+.p {
+    position: absolute;
+    width: 201px;
+    height: 80px;
+    left: 901px;
+    top: 807px;
+
+    margin-left: 1%;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #000000;
+}
+
+/* .line {
+    
+    width: 638px;
+    height: 0px;
+    left: 720px;
+    top: 249px;
+
+    border: 1px solid #FF6700;
+    transform: rotate(90deg);
+
+    
+} */

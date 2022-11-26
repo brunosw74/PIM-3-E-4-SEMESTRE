@@ -1,0 +1,83 @@
+.btn_myAcount {
+    width: 164px;
+    height: 48px;
+    left: 1155px;
+    top: 21px;
+
+    background: #53ADEF;
+    border-radius: 8px;
+    border-style: none;
+
+    margin-top: 10%;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+
+
+}
+
+.select_container {
+    width: 164px;
+    height: 276px;
+    left: 1155px;
+    top: 79px;
+
+    background: #89C2D4;
+    border-radius: 8px;
+
+    align-items: center;
+    justify-items: center;
+
+    display: block;
+
+    margin-top: 6%;
+    z-index: 0;
+}
+
+.btn_select {
+    width: 139px;
+    height: 41px;
+    left: 1167px;
+    top: 90px;
+
+    background: #53ADEF;
+    border-radius: 8px;
+    border-style: none;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+
+    margin-left: 8%;
+    margin-top: 18%;
+
+    color: #FFFFFF;
+
+}
+
+.img_user {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 1325px;
+    top: 3px;
+    background-image: url('../../imgs/user_loged.png');
+}

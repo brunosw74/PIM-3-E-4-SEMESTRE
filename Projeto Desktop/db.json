@@ -1,0 +1,42 @@
+{
+    "projects": [],
+    "menuPages": [
+        {
+            "id": 1,
+            "name": "Cadastrar ofininas credenciadas",
+            "path": "/credenciais"
+        },
+        {
+            "id": 2,
+            "name": "Emitir valor da franquia",
+            "path": "/franquia"
+        },
+        {
+            "id": 3,
+            "name": "Cadastrar sinistro",
+            "path": "/sinistro"
+        },
+        {
+            "id": 4,
+            "name": "Gerar relatórios",
+            "path": "/relatorio"
+        },
+        {
+            "id": 5,
+            "name": "Consultar tabela fipe",
+            "path": "/fipe"
+        },
+        {
+            "id": 6,
+            "name": "Cadastrar seguros",
+            "path": "/seguros"
+        }
+        ,
+        {
+            "id": 7,
+            "name": "Suport ao cliente",
+            "path": "/attcliente"
+        }
+
+    ]
+}

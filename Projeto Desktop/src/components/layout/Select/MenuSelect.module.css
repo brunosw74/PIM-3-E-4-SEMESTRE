@@ -1,0 +1,75 @@
+.btn_menu {
+    width: 164px;
+    height: 48px;
+    left: 1120px;
+    top: 24px;
+
+    background: #53ADEF;
+    border-radius: 8px;
+    border-style: none;
+
+    margin-top: 10%;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+
+    justify-content: center;
+
+    color: #FFFFFF;
+
+
+}
+
+.select_container {
+    width: 206px;
+    height: 492px;
+    left: 1100px;
+    top: 83px;
+
+    background: #53ADEF;
+    border-radius: 8px;
+
+    align-items: center;
+    justify-items: center;
+
+    display: block;
+
+    margin-top: 6%;
+    z-index: 1;
+}
+
+.btn_select {
+    width: 164px;
+    height: 48px;
+    left: 1119px;
+    top: 108px;
+
+    background: #7ABDED;
+    border-radius: 8px;
+    border-style: none;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+
+    margin-left: 8%;
+    margin-top: 8%;
+
+    color: #FFFFFF;
+
+}

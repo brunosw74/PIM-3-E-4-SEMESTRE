@@ -1,0 +1,36 @@
+.menu_container {
+
+    display: flex;
+    flex-direction: row;
+
+    /* display: grid;
+
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2; */
+
+    margin-top: 3%;
+    margin-left: 15%;
+
+}
+
+.menu_container_item {
+    margin-right: 10%;
+}
+
+.menu_container_item2 {
+    margin-right: 10%;
+}
+
+.img_user {
+    
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    left: 1328px;
+    top: 2px;
+    
+    background: url("../../imgs/perfil_logado.png");
+
+}

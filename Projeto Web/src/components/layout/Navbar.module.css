@@ -1,0 +1,48 @@
+.navbar {
+    width: 1440px;
+    height: 106px;
+    display: flex;
+    background-color: #ffff;
+    padding: 1em;
+    border-bottom: solid #fb9600;
+    z-index: 1;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+.item {
+    margin-right: 20%;
+    z-index: 1;
+}
+
+.item a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    z-index: 1;
+    justify-content: center;
+}
+
+.button_login {
+    margin-right: 10%;
+}
+
+.list2 {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    margin-bottom: 20%;
+}

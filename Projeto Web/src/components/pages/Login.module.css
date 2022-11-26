@@ -1,0 +1,194 @@
+.container {
+  width: 100%;
+}
+
+.login_container {
+  /* position:absolute;  */
+  width: 453px;
+  height: 585px;
+  left: 475px;
+  top: 219px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  justify-content: center;
+  align-items: center;
+
+  margin-left: 40%;
+  margin-top: 10%;
+}
+
+.back_button {
+  margin-left: 4%;
+}
+
+.text_container {
+  margin-top: 10%;
+}
+
+.text1 {
+  width: 384px;
+  height: 38px;
+  left: 528px;
+  top: 293px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  /* or 140% */
+  margin-left: 16%;
+  justify-content: center;
+  align-items: center;
+
+  color: #000000;
+}
+
+.text2 {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  /* or 140% */
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  color: #000000;
+}
+
+.input_info {
+  box-sizing: border-box;
+
+  width: 340px;
+  height: 57px;
+  left: 528px;
+  top: 448px;
+
+  border-style: none;
+
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 35px;
+  /* identical to box height, or 175% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #777676;
+}
+
+.input_password {
+  width: 340px;
+  height: 57px;
+  left: 528px;
+  top: 534px;
+
+  margin-top: 10%;
+
+  border-style: none;
+
+  background: #f1f1f1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 35px;
+  /* identical to box height, or 175% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #777676;
+}
+
+.input_container {
+  margin-top: 10%;
+  margin-left: 13%;
+}
+
+.text_containe2 {
+  margin-left: 24%;
+}
+
+.text3 {
+  width: 246px;
+  height: 75px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  /* or 125% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.text4 {
+  width: 246px;
+  height: 75px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  /* or 125% */
+
+  display: flex;
+  align-items: center;
+
+  color: #53adef;
+}
+
+.button2 {
+  text-decoration: none;
+}
+
+.margin_loginButton{
+  margin-left: 30%;
+}
+
+/* .btnLogin {
+  width: 105px;
+  height: 27px;
+  left: 474px;
+  top: 881px;
+
+  background: #53ADEF;
+  border-radius: 8px;
+  border-style: none;
+
+  margin-left: 40%;
+  margin-top: 6%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 30px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+
+  color: #FFFFFF;
+} */

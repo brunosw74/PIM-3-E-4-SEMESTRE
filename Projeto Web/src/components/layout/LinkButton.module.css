@@ -1,0 +1,27 @@
+.btn {
+    width: 164px;
+    height: 48px;
+    left: 1120px;
+    
+    justify-content: center;
+    margin-top: 10%;
+    /* margin-left: 150%; */
+
+    background: #53ADEF;    
+    border-radius: 8px;
+
+
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 24px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    
+    color: #ffff;
+
+}
+
+.btn:hover {
+    color: #088ae8;
+}
